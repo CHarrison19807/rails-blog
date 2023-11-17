@@ -1,0 +1,6 @@
+.site-header {
+    background: rgb(88,19,255);
+    background: linear-gradient(90deg, rgba(88,19,255,1) 0%, rgba(118,61,255,1) 50%, rgba(130,78,255,1) 100%); 
+    color: white;
+    text-align: center;
+}
